@@ -11,11 +11,11 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
-/* .opacity {
+.opacity {
   background-color: rgba(0, 0, 0, 0.7);
   height: 100%;
   width: 100%;
-} */
+}
 header {
   padding: 10px;
   display: flex;
